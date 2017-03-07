@@ -18,7 +18,8 @@
         <activity
             android:name=".activity_edit_wine"
             android:label="@string/title_activity_edit_wine"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".wine_list"></activity>
     </application>
 
 </manifest>
